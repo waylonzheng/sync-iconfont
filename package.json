@@ -1,0 +1,16 @@
+{
+  "name": "sync-iconfont",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ssh2-sftp-client": "^10.0.3"
+  }
+}
